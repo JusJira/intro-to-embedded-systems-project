@@ -4,7 +4,7 @@ Group 5 : We Love CPP
 
 ## Power
 
-You need to supply power to the device, You can use USB power or other power supplies that can provied 5V
+You need to supply power to the device, You can use USB power or other power supplies that can provide 5V
 
 ## Modes
 
